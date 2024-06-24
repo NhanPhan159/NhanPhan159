@@ -17,3 +17,10 @@ jobs:
           ### content
           SHOW_LOC_CHART: False
           SHOW_COMMIT: True
+          SHOW_DAYS_OF_WEEK: False
+          SHOW_TOTAL_CODE_TIME: False
+          SHOW_SHORT_INFO: False
+          SHOW_OS: False
+          SHOW_PROJECTS: False
+          SHOW_TIMEZONE: False
+          SHOW_EDITORS: False
