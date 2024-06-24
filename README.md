@@ -7,15 +7,15 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 ## Fun fact about me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="25" height="25" />
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                97 commits          █████████░░░░░░░░░░░░░░░░   37.60 % 
-🌆 Daytime                92 commits          █████████░░░░░░░░░░░░░░░░   35.66 % 
-🌃 Evening                65 commits          ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+🌞 Morning                97 commits          █████████░░░░░░░░░░░░░░░░   37.31 % 
+🌆 Daytime                92 commits          █████████░░░░░░░░░░░░░░░░   35.38 % 
+🌃 Evening                67 commits          ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
@@ -32,7 +32,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2024 15:15:08 UTC
+ Last Updated on 24/06/2024 18:39:14 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
