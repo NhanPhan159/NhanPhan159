@@ -7,7 +7,7 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 ## Fun fact about me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="25" height="25" />
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 
 **I'm an Early 🐤** 
 
@@ -32,7 +32,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2024 18:39:57 UTC
+ Last Updated on 27/06/2024 18:38:37 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
