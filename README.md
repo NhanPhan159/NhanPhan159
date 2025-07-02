@@ -9,6 +9,10 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 <!--START_SECTION:waka-->
 
 ```txt
+From: 22 June 2024 - To: 01 July 2025
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
