@@ -13,8 +13,6 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 > 📦 84.1 kB Used in GitHub's Storage 
  > 
-> 🏆 25 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -57,7 +55,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2025 01:18:09 UTC
+ Last Updated on 03/07/2025 02:26:58 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
