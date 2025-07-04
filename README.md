@@ -7,11 +7,13 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 ## Fun fact about me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="25" height="25" />
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 84.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 25 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,13 +35,18 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   1 hr 2 mins         ████████████░░░░░░░░░░░░░   46.85 % 
+Java                     37 mins             ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+XML                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           2 hrs 9 mins        ████████████████████████░   96.89 % 
+Neovim                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -55,7 +62,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2025 02:26:58 UTC
+ Last Updated on 04/07/2025 01:18:13 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
