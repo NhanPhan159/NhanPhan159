@@ -7,13 +7,11 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 ## Fun fact about me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="25" height="25" />
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 84.2 kB Used in GitHub's Storage 
- > 
-> 🏆 25 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,18 +33,18 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 ```text
 💬 Programming Languages: 
-Kotlin                   10 hrs 1 min        ████████████████████░░░░░   79.73 % 
-Java                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Kotlin                   13 hrs 43 mins      █████████████████████░░░░   82.16 % 
+Java                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-Android Studio           10 hrs 58 mins      ██████████████████████░░░   87.29 % 
-Neovim                   1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Android Studio           15 hrs 38 mins      ███████████████████████░░   93.59 % 
+Neovim                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 💻 Operating System: 
-Mac                      12 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -62,7 +60,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2025 01:23:42 UTC
+ Last Updated on 15/07/2025 01:24:00 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
