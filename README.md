@@ -7,7 +7,7 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 ## Fun fact about me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="25" height="25" />
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -35,17 +35,17 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 ```text
 💬 Programming Languages: 
-Kotlin                   13 hrs 56 mins      █████████████████████░░░░   82.19 % 
-Java                     1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Groovy                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Gradle                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Kotlin                   13 hrs 24 mins      ████████████████████░░░░░   81.60 % 
+Java                     1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Groovy                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Gradle                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-Android Studio           16 hrs 58 mins      █████████████████████████   100.00 % 
+Android Studio           16 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -61,7 +61,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2025 01:22:22 UTC
+ Last Updated on 18/07/2025 01:21:43 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
