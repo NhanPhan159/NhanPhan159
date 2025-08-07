@@ -7,7 +7,7 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 ## Fun fact about me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="25" height="25" />
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -35,17 +35,18 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 ```text
 💬 Programming Languages: 
-Kotlin                   17 hrs 34 mins      ████████████████████████░   94.48 % 
-Java                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-XML                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-textmate                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Kotlin                   20 hrs 23 mins      ████████████████████████░   96.08 % 
+Java                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+textmate                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Android Studio           18 hrs 35 mins      █████████████████████████   100.00 % 
+Android Studio           21 hrs 12 mins      █████████████████████████   99.97 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      18 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -61,7 +62,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2025 01:24:23 UTC
+ Last Updated on 07/08/2025 01:25:05 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
