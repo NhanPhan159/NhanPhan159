@@ -7,7 +7,7 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 ## Fun fact about me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="25" height="25" />
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -35,17 +35,17 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 ```text
 💬 Programming Languages: 
-Kotlin                   26 hrs 6 mins       ███████████████████████░░   92.26 % 
-XML                      1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Java                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Kotlin                   27 hrs 49 mins      ███████████████████████░░   92.40 % 
+XML                      2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Java                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           28 hrs 17 mins      █████████████████████████   100.00 % 
+Android Studio           30 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      28 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -61,7 +61,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2025 01:17:44 UTC
+ Last Updated on 26/08/2025 01:15:04 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
