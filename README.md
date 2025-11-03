@@ -35,16 +35,13 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
 
 ```text
 💬 Programming Languages: 
-Kotlin                   3 mins              █████████████████████████   99.53 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -60,7 +57,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 01:19:31 UTC
+ Last Updated on 03/11/2025 01:18:21 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
