@@ -21,6 +21,29 @@ I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1862 commits        ███████████░░░░░░░░░░░░░░   42.40 % 
+🌆 Daytime                2168 commits        ████████████░░░░░░░░░░░░░   49.37 % 
+🌃 Evening                311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+🌙 Night                  50 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -34,7 +57,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2025 01:16:27 UTC
+ Last Updated on 05/11/2025 01:17:18 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
