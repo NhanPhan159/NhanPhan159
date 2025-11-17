@@ -1,6 +1,8 @@
 # Hey! Nice to see you.
 Welcome to my git profile! <br/>
-I'm Nhan, a Fullstack developer from  Da Nang, VietNam.
+📍 I'm Nhan, an web developer from  Da Nang, VietNam.
+🕰️ Explorer in various fields, such as Linux kernel, terminal, Web developer
+😌 I'm really like the peaceful space and vibe when I'm on working that make me focus totally
 
 ## Thing I code with
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 	![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
