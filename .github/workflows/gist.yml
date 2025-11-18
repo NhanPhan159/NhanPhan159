@@ -4,10 +4,13 @@ on:
     workflows: [Waka Readme]
     types: 
        - completed
+  workflow_dispatch:
 jobs: 
   write-gist:
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
     steps:
+      - name: copy code
+        uses: actions/checkout@v2
       - name: test-cd
-        run: ls
+        run: | ls
     
