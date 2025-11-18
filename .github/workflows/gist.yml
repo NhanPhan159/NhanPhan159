@@ -12,5 +12,6 @@ jobs:
       - name: copy code
         uses: actions/checkout@v2
       - name: test-cd
-        run: | ls
+        run: | 
+            ls
     
