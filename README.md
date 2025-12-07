@@ -12,7 +12,7 @@ Welcome to my git profile! <br/>
 
 ## My activity time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="25" height="25" />
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -40,17 +40,17 @@ Welcome to my git profile! <br/>
 
 ```text
 💬 Programming Languages: 
-Kotlin                   18 hrs 32 mins      ██████████████████████░░░   89.50 % 
-XML                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Java                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-GitIgnore file           23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Kotlin                   17 hrs 29 mins      ██████████████████████░░░   89.34 % 
+XML                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Java                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+GitIgnore file           23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+textmate                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Android Studio           20 hrs 42 mins      █████████████████████████   100.00 % 
+Android Studio           19 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -66,7 +66,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2025 01:15:44 UTC
+ Last Updated on 07/12/2025 01:25:58 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
