@@ -148,14 +148,14 @@ const githubService = new GithubService(process.env.TOKEN_ACCESS);
         ? "I am an Early 🐤"
         : "I am a Night 🦉";
 
-    stats += `**${title}** \n\n\`\`\`\n${make_list({
+    stats += `${make_list({
       names: dt_names,
       texts: dt_texts,
       percents: dt_percents,
       top_num: 7,
       sort: false,
     })}\n\`\`\`\n`;
-    await fs.writeFile("./../stats.md", stats, { flag: "w+" });
+    await fs.writeFile(`./../${title}.md`, stats, { flag: "w+" });
     console.log("success write to file !!!");
   } catch (e) {
     console.log(e);
