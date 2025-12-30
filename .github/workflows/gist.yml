@@ -32,7 +32,12 @@ jobs:
         run: |
           cd service-git
           pnpm start
-      - name: test
-        run: cat stats.md
+      - name: deploy
+        uses: exuanbo/actions-deploy-gist@v1 
+        with:
+          token: ${{ secrets.TOKEN_GIT }}
+          gist_id: 632c3fb58ddc596ecfb80a16b48d4b01
+          file_path: stats.md
+          file_type: text
         
     
