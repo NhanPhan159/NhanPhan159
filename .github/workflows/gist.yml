@@ -29,7 +29,9 @@ jobs:
           cd service-git
           pnpm install
       - name: run the programe
-        run: pnpm start
+        run: |
+          cd service-git
+          pnpm start
       - name: test
         run: cat stats.md
         
