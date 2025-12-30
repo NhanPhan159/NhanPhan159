@@ -9,9 +9,22 @@ jobs:
   write-gist:
     runs-on: ubuntu-latest
     steps:
-      - name: copy code
+      - name: clone code
         uses: actions/checkout@v2
-      - name: test-cd
+      - name: make env
         run: | 
-            ls
+            cd service-git
+            touch .env
+            echo TOKEN_ACCESS=${{secrets.TOKEN_GIT}} >> .env
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with: 
+          node-version: 20.x
+      - name: Install pnpm
+        run: npm install pnpm
+      - name: Install dependencies
+        run: pnpm install
+      - name: test file
+        run: cat stats.md
+        
     
