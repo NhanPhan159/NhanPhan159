@@ -21,10 +21,12 @@ jobs:
         with: 
           node-version: 20.x
       - name: Install pnpm
-        run: npm install pnpm
+        run: npm install -g pnpm@latest-10
       - name: Install dependencies
         run: pnpm install
-      - name: test file
+      - name: run the programe
+        run: pnpm start
+      - name: test
         run: cat stats.md
         
     
