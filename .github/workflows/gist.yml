@@ -1,10 +1,12 @@
 name: gist
-on: 
+on:
   workflow_run:
     workflows: [Waka Readme]
     types: 
        - completed
   workflow_dispatch:
+  push:
+    branches: [ "main" ]
 jobs: 
   write-gist:
     runs-on: ubuntu-latest
@@ -23,7 +25,9 @@ jobs:
       - name: Install pnpm
         run: npm install -g pnpm@latest-10
       - name: Install dependencies
-        run: pnpm install
+        run: |
+          cd service-git
+          pnpm install
       - name: run the programe
         run: pnpm start
       - name: test
