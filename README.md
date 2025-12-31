@@ -12,13 +12,6 @@ Welcome to my git profile! <br/>
 
 ## My activity time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="25" height="25" />
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-Android Studio           4 hrs 45 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -32,7 +25,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 03:43:05 UTC
+ Last Updated on 31/12/2025 03:47:11 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
