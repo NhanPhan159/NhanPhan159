@@ -12,14 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: clone code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: make env
         run: | 
             cd service-git
             touch .env
             echo TOKEN_ACCESS=${{secrets.TOKEN_GIT}} >> .env
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v5
         with: 
           node-version: 20.19.1
       - name: Install pnpm
