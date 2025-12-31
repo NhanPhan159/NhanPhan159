@@ -1,37 +1,4 @@
 "use strict";
-var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
-    if (k2 === undefined) k2 = k;
-    var desc = Object.getOwnPropertyDescriptor(m, k);
-    if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
-      desc = { enumerable: true, get: function() { return m[k]; } };
-    }
-    Object.defineProperty(o, k2, desc);
-}) : (function(o, m, k, k2) {
-    if (k2 === undefined) k2 = k;
-    o[k2] = m[k];
-}));
-var __setModuleDefault = (this && this.__setModuleDefault) || (Object.create ? (function(o, v) {
-    Object.defineProperty(o, "default", { enumerable: true, value: v });
-}) : function(o, v) {
-    o["default"] = v;
-});
-var __importStar = (this && this.__importStar) || (function () {
-    var ownKeys = function(o) {
-        ownKeys = Object.getOwnPropertyNames || function (o) {
-            var ar = [];
-            for (var k in o) if (Object.prototype.hasOwnProperty.call(o, k)) ar[ar.length] = k;
-            return ar;
-        };
-        return ownKeys(o);
-    };
-    return function (mod) {
-        if (mod && mod.__esModule) return mod;
-        var result = {};
-        if (mod != null) for (var k = ownKeys(mod), i = 0; i < k.length; i++) if (k[i] !== "default") __createBinding(result, mod, k[i]);
-        __setModuleDefault(result, mod);
-        return result;
-    };
-})();
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -45,7 +12,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const constant_1 = require("./constant");
 const services_1 = require("./services");
 const utils_1 = require("./utils");
-const fs = __importStar(require("node:fs/promises"));
 const dateData = {};
 var repositories = [];
 var lastPageInfo = null;
@@ -153,14 +119,14 @@ const githubService = new services_1.GithubService(process.env.TOKEN_ACCESS);
         const title = dayTimes[0] + dayTimes[1] >= dayTimes[2] + dayTimes[3]
             ? "I am an Early 🐤"
             : "I am a Night 🦉";
-        stats += `**${title}** \n\n\`\`\`\n${(0, utils_1.make_list)({
+        stats += `${(0, utils_1.make_list)({
             names: dt_names,
             texts: dt_texts,
             percents: dt_percents,
             top_num: 7,
             sort: false,
-        })}\n\`\`\`\n`;
-        yield fs.writeFile("./../stats.md", stats, { flag: "w+" });
+        })}`;
+        githubService.updateGist(`${title}`, stats);
         console.log("success write to file !!!");
     }
     catch (e) {

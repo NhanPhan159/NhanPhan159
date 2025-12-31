@@ -1,3 +1,4 @@
+import CONFIGS from "../config";
 import { TGithubUser } from "../types";
 import axiosClient from "./axios-client";
 
@@ -17,6 +18,16 @@ class GithubService {
   }
   getUser(): TGithubUser {
     return this.user;
+  }
+  async updateGist(nameFile: string, content: string) {
+    await axiosClient.patch(`/gists/${CONFIGS.GIST_ID}`, {
+      gist_id: CONFIGS.GIST_ID,
+      files: {
+        [nameFile]: {
+          content: content,
+        },
+      },
+    });
   }
 }
 

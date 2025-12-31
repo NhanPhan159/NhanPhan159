@@ -12,6 +12,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+const config_1 = __importDefault(require("../config"));
 const axios_client_1 = __importDefault(require("./axios-client"));
 class GithubService {
     constructor(token) {
@@ -28,6 +29,18 @@ class GithubService {
     }
     getUser() {
         return this.user;
+    }
+    updateGist(nameFile, content) {
+        return __awaiter(this, void 0, void 0, function* () {
+            yield axios_client_1.default.patch(`/gists/${config_1.default.GIST_ID}`, {
+                gist_id: config_1.default.GIST_ID,
+                files: {
+                    [nameFile]: {
+                        content: content,
+                    },
+                },
+            });
+        });
     }
 }
 exports.default = GithubService;

@@ -154,8 +154,8 @@ const githubService = new GithubService(process.env.TOKEN_ACCESS);
       percents: dt_percents,
       top_num: 7,
       sort: false,
-    })}\n\`\`\`\n`;
-    await fs.writeFile(`./../${title}.md`, stats, { flag: "w+" });
+    })}`;
+    githubService.updateGist(`${title}`, stats);
     console.log("success write to file !!!");
   } catch (e) {
     console.log(e);
