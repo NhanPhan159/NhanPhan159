@@ -19,6 +19,7 @@ Welcome to my git profile! <br/>
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
  
 </div>
+
 ## My activity time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Exhaling.png" alt="Face Exhaling" width="25" height="25" />
 <!--START_SECTION:waka-->
 **I Mostly Code in TypeScript** 
