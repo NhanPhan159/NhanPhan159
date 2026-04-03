@@ -25,17 +25,17 @@ Welcome to my git profile! <br/>
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TypeScript               13 repos            ██████████░░░░░░░░░░░░░░░   38.24 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 02/04/2026 01:53:35 UTC
+ Last Updated on 03/04/2026 01:55:02 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
