@@ -2,7 +2,7 @@
 Welcome to my git profile! <br/>
 📍 I'm Nhan, an web developer from  Da Nang, VietNam. <br/>
 🕰️ Explorer in various fields, such as Linux kernel, terminal, Web developer. <br/>
-😌 I'm really like the peaceful space and vibe when I'm on working that make me focus totally. <br/>
+😌 I'm really like the peaceful space and vibe when I'm on working that makes me focus totally. <br/>
 
 ## Thing I code with
 <div align="center">
