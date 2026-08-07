@@ -22,14 +22,6 @@ Welcome to my git profile! <br/>
 
 ## My activity time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Exhaling.png" alt="Face Exhaling" width="25" height="25" />
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20mins-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -43,7 +35,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 02:04:02 UTC
+ Last Updated on 07/08/2026 02:23:50 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
