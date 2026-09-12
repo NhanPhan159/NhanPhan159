@@ -27,24 +27,26 @@ Welcome to my git profile! <br/>
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 mins (95.65%)
+⏱ AI Coding Time: 42 mins (100.0%)
 
-✍️ 77 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 106,736 Input Tokens, 9,890 Output Tokens
+🔤 535,920 Input Tokens, 13,112 Output Tokens
 
-💵 $0.26 Estimated AI Cost This Week
+💵 $3.30 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 13 AI Prompts
+🧠 29 AI Sessions, 17 AI Prompts
 
-Glm                      75 lines            ████████████████████████░   97.40 % 
-Qwen                     2 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Ling                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 58 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 73 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -60,7 +62,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 02:36:48 UTC
+ Last Updated on 12/09/2026 02:45:59 UTC
 <!--END_SECTION:waka-->
 
 ## Where to find me
